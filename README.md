@@ -1,1 +1,1 @@
-# pupukakka.git.io
+# pupukakka.github.io
